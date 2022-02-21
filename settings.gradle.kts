@@ -1,4 +1,4 @@
-rootProject.name = "my-project"
+rootProject.name = "blind-quartets"
 
 include("app")
 include("core")
